@@ -1,0 +1,19 @@
+table{
+	margin: 0;
+	padding: 0;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+tbody{
+	width: 100vw;
+
+}
+
+tr{
+	width: 100%;
+}
+
+th{
+	width: 25vw;
+}
